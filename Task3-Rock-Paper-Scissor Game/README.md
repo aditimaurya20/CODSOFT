@@ -2,7 +2,7 @@ Rock - Paper - Scissors (Python Tkinter Game)
 A fun GUI-based Rock-Paper-Scissors game built with Python Tkinter.
 Play against the computer, track your score, and reset or exit anytime! ✨
 
-Features
+Features \n
 -Random computer moves (Rock, Paper, Scissors)
 -Score tracking (User vs Computer)
 -Reset button to restart the game
@@ -29,3 +29,4 @@ Use Reset to restart or Exit to quit the game.
 
 Contributing
 Pull requests are welcome! Feel free to fork this repo and suggest improvements.
+
